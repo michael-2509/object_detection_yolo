@@ -8,11 +8,11 @@ This code showcases the use of YOLOv8, the latest version of the YOLO (You Only 
 
   `git clone [githuburl] `
 
-- Navigate to the detection_image directory
-
 - Create a virtual environment and install the requirement files
 
   `pip install -r requirements.txt`
+
+- Navigate to the detection_image directory
 
 - Run yolo_basic.py file
 
